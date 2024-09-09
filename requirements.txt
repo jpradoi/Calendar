@@ -1,8 +1,4 @@
 mysqlclient
 django
 djangorestframework
-<<<<<<< HEAD
 gunicorn
-=======
-gunicorn
->>>>>>> 276edef619ebfb47501dfc4cab1da721e3238c49
